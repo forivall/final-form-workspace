@@ -1,0 +1,15 @@
+{
+  "name": "final-form-workspace",
+  "version": "0.0.0-workspace",
+  "private": true,
+  "description": "",
+  "license": "UNLICENSED",
+  "workspaces": {
+    "packages": [
+      "final-form",
+      "final-form-*",
+      "react-final-form",
+      "react-final-form-*"
+    ]
+  }
+}

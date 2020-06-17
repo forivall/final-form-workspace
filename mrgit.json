@@ -1,0 +1,17 @@
+{
+  "packages": ".",
+  "dependencies": {
+    "final-form": "final-form/final-form",
+    "final-form-arrays": "final-form/final-form-arrays",
+    "final-form-calculate": "final-form/final-form-calculate",
+    "final-form-focus": "final-form/final-form-focus",
+    "final-form-set-field-data": "final-form/final-form-set-field-data",
+    "final-form-set-field-touched": "final-form/final-form-set-field-touched",
+    "final-form-submit-listener": "final-form/final-form-submit-listener",
+    "react-final-form": "final-form/react-final-form",
+    "react-final-form-arrays": "final-form/react-final-form-arrays",
+    "react-final-form-hooks": "final-form/react-final-form-hooks",
+    "react-final-form-html5-validation": "final-form/react-final-form-html5-validation",
+    "react-final-form-listeners": "final-form/react-final-form-listeners"
+  }
+}
